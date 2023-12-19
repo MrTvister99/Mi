@@ -1,0 +1,47 @@
+C:\Users\MrTvister\Desktop\Mi\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe.config
+C:\Users\MrTvister\Desktop\Mi\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe
+C:\Users\MrTvister\Desktop\Mi\WpfApp1\WpfApp1\bin\Debug\WpfApp1.pdb
+C:\Users\MrTvister\Desktop\Mi\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.AssemblyReference.cache
+C:\Users\MrTvister\Desktop\Mi\WpfApp1\WpfApp1\obj\Debug\MainWindow.g.cs
+C:\Users\MrTvister\Desktop\Mi\WpfApp1\WpfApp1\obj\Debug\App.g.cs
+C:\Users\MrTvister\Desktop\Mi\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+C:\Users\MrTvister\Desktop\Mi\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+C:\Users\MrTvister\Desktop\Mi\WpfApp1\WpfApp1\obj\Debug\MainWindow.baml
+C:\Users\MrTvister\Desktop\Mi\WpfApp1\WpfApp1\obj\Debug\WpfApp1.g.resources
+C:\Users\MrTvister\Desktop\Mi\WpfApp1\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+C:\Users\MrTvister\Desktop\Mi\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.GenerateResource.cache
+C:\Users\MrTvister\Desktop\Mi\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.CoreCompileInputs.cache
+C:\Users\MrTvister\Desktop\Mi\WpfApp1\WpfApp1\obj\Debug\WpfApp1.exe
+C:\Users\MrTvister\Desktop\Mi\WpfApp1\WpfApp1\obj\Debug\WpfApp1.pdb
+C:\Users\MrTvister\Desktop\Mi\WpfApp1\WpfApp1\obj\Debug\Page1.g.cs
+C:\Users\MrTvister\Desktop\Mi\WpfApp1\WpfApp1\obj\Debug\Page1.baml
+C:\Users\MrTvister\Desktop\Mi\WpfApp1\WpfApp1\obj\Debug\Menu.g.cs
+C:\Users\MrTvister\Desktop\Mi\WpfApp1\WpfApp1\obj\Debug\Menu.baml
+C:\Users\MrTvister\Desktop\Mi\WpfApp1\WpfApp1\obj\Debug\Korzina.g.cs
+C:\Users\MrTvister\Desktop\Mi\WpfApp1\WpfApp1\obj\Debug\Korzina.baml
+C:\Users\MrTvister\Desktop\Mi\WpfApp1\WpfApp1\obj\Debug\Info.g.cs
+C:\Users\MrTvister\Desktop\Mi\WpfApp1\WpfApp1\obj\Debug\Info.baml
+C:\Users\student\Desktop\Mi-main (1)\Mi-main\Mi\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe.config
+C:\Users\student\Desktop\Mi-main (1)\Mi-main\Mi\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe
+C:\Users\student\Desktop\Mi-main (1)\Mi-main\Mi\WpfApp1\WpfApp1\bin\Debug\WpfApp1.pdb
+C:\Users\student\Desktop\Mi-main (1)\Mi-main\Mi\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.AssemblyReference.cache
+C:\Users\student\Desktop\Mi-main (1)\Mi-main\Mi\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.SuggestedBindingRedirects.cache
+C:\Users\student\Desktop\Mi-main (1)\Mi-main\Mi\WpfApp1\WpfApp1\obj\Debug\Info.g.cs
+C:\Users\student\Desktop\Mi-main (1)\Mi-main\Mi\WpfApp1\WpfApp1\obj\Debug\Korzina.g.cs
+C:\Users\student\Desktop\Mi-main (1)\Mi-main\Mi\WpfApp1\WpfApp1\obj\Debug\MainWindow.g.cs
+C:\Users\student\Desktop\Mi-main (1)\Mi-main\Mi\WpfApp1\WpfApp1\obj\Debug\Menu.g.cs
+C:\Users\student\Desktop\Mi-main (1)\Mi-main\Mi\WpfApp1\WpfApp1\obj\Debug\Page1.g.cs
+C:\Users\student\Desktop\Mi-main (1)\Mi-main\Mi\WpfApp1\WpfApp1\obj\Debug\App.g.cs
+C:\Users\student\Desktop\Mi-main (1)\Mi-main\Mi\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+C:\Users\student\Desktop\Mi-main (1)\Mi-main\Mi\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+C:\Users\student\Desktop\Mi-main (1)\Mi-main\Mi\WpfApp1\WpfApp1\obj\Debug\Info.baml
+C:\Users\student\Desktop\Mi-main (1)\Mi-main\Mi\WpfApp1\WpfApp1\obj\Debug\Korzina.baml
+C:\Users\student\Desktop\Mi-main (1)\Mi-main\Mi\WpfApp1\WpfApp1\obj\Debug\MainWindow.baml
+C:\Users\student\Desktop\Mi-main (1)\Mi-main\Mi\WpfApp1\WpfApp1\obj\Debug\Menu.baml
+C:\Users\student\Desktop\Mi-main (1)\Mi-main\Mi\WpfApp1\WpfApp1\obj\Debug\Page1.baml
+C:\Users\student\Desktop\Mi-main (1)\Mi-main\Mi\WpfApp1\WpfApp1\obj\Debug\WpfApp1.g.resources
+C:\Users\student\Desktop\Mi-main (1)\Mi-main\Mi\WpfApp1\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+C:\Users\student\Desktop\Mi-main (1)\Mi-main\Mi\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.GenerateResource.cache
+C:\Users\student\Desktop\Mi-main (1)\Mi-main\Mi\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.CoreCompileInputs.cache
+C:\Users\student\Desktop\Mi-main (1)\Mi-main\Mi\WpfApp1\WpfApp1\obj\Debug\WpfApp1.exe
+C:\Users\student\Desktop\Mi-main (1)\Mi-main\Mi\WpfApp1\WpfApp1\obj\Debug\WpfApp1.pdb
